@@ -1,0 +1,21 @@
+# Quartus II generated files
+db/
+incremental_db/
+output_files/
+
+# Simulation files
+simulation/questa/work/
+simulation/questa/rtl_work/
+simulation/questa/vsim.wlf
+simulation/questa/msim_transcript
+simulation/questa/modelsim.ini
+simulation/questa/*.do.bak*
+
+# Backup files
+*.bak
+
+# Quartus lock files
+*.flock
+
+# Nativelink reports
+*_nativelink_simulation.rpt
